@@ -485,5 +485,4 @@ Docker启动项目
 
 如果觉得还不错，请作者喝杯咖啡吧 ☺
 
-![](https://static.oschina.net/uploads/img/201903/08155608_0EFX.png)#   s c h o o l - m a n a g e r - s y s t e m  
- 
+![](https://static.oschina.net/uploads/img/201903/08155608_0EFX.png)
